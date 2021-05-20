@@ -24,8 +24,8 @@ Code tested on following environments, other version should also work:
 Please read [HEAR](EE369.md).
 使用pytorch
 LeNet：两个卷积层加三个全连接层
-Q1：train_acc:97.30% test_acc:89.20%
-Q2：train_acc:82.12% test_acc:81.30%
-Q3：train_acc:97.87% test_acc:85.50%
-Q4：train_acc:96.10% test_acc:87.40%
-Q5：train_acc:99.61% test_acc:98.78%
+* Q1：train_acc:97.30% test_acc:89.20%
+* Q2：train_acc:82.12% test_acc:81.30%
+* Q3：train_acc:97.87% test_acc:85.50%
+* Q4：train_acc:96.10% test_acc:87.40%
+* Q5：train_acc:99.61% test_acc:98.78%
